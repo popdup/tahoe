@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/./build.dir/main.o  -o ./build -rdynamic 
